@@ -87,3 +87,46 @@ for i in range(1, 6 + 1):
         print(j, end = " ")
     
     print()
+'''
+Tuition cost after 10 years is:  16288.946267774414 Four years of tuition after 10 years is:  73717.76425901074
+Enter the number of students 5
+Enter Num1 student's score: 12
+Enter Num2 student's score: 13
+Enter Num3 student's score: 11
+Enter Num4 student's score: 100
+Enter Num5 student's score: 2
+The highest score is  100 and second-highest score is  13
+22
+
+Enter a positive integer: 24
+The factors for 24 is 2  2  2  3  
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+1 2 3 4 5 6 
+
+1 2 3 4 5 6 
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+
+          1 
+        2 1 
+      3 2 1 
+    4 3 2 1 
+  5 4 3 2 1 
+6 5 4 3 2 1 
+
+1 2 3 4 5 6 
+  1 2 3 4 5 
+    1 2 3 4 
+      1 2 3 
+        1 2 
+          1 
+
+
+'''
